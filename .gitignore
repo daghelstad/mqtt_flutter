@@ -1,0 +1,11 @@
+android/ 
+ios/
+.dart_tool/
+.idea/
+.metadata
+.packages
+build/
+linux/
+test/
+web/
+pubspec.lock
